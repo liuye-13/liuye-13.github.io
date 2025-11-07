@@ -9,7 +9,6 @@ redirect_from:
 
 I'm currently pursuing my Master’s degree in Guangming Laboratory from Shenzhen University, which is also in Visual Computing Research Center(VCC) led by Prof. Hui Huang, under the supervision of Prof. Mengke Li.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
