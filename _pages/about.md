@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently pursuing my Master’s degree in Guangming Laboratory from Shenzhen University, which is also in Visual Computing Research Center(VCC) led by Prof. Hui Huang, under the supervision of Prof. Mengke Li.
+I am pursuing my Master’s degree at the Guangming Laboratory, Shenzhen University. I am a member of the [Visual Computing Research Center (VCC)](https://vcc.tech/index) directed by Prof. [Hui Huang](https://vcc.tech/~huihuang/home), and supervised by Prof. [Mengke Li](https://keke921.github.io/).
 
 
 A data-driven personal website
